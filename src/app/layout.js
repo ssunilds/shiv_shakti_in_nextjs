@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "AC Repair & Services in Jaipur | 24/7 Expert Support",
+  title: "Shiv Shakti Home Appliance Services - Repair & Installation Services in Jaipur | 24/7 Expert Support",
   description: "Get professional & affordable AC repair services in Jaipur. Certified experts, same-day service, and 24/7 support available. Call now!",
   keywords: "AC repair Jaipur, AC service Jaipur, AC maintenance, air conditioner repair",
   openGraph: {
