@@ -141,7 +141,7 @@ export default function WhyChooseUs() {
       </section>
 
       {/* Testimonials */}
-      <section className="py-24 bg-gray-50">
+      <section className="pt-24 pb-12 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4">
           <SectionHeader
             title="Customer Stories"
@@ -187,7 +187,7 @@ export default function WhyChooseUs() {
       </section>
 
       {/* Emergency Banner */}
-      <section className="bg-red-600 text-white py-16">
+      {/* <section className="bg-red-600 text-white py-16">
         <div className="max-w-6xl mx-auto px-4">
           <motion.div
             initial={{ scale: 0.95 }}
@@ -215,10 +215,10 @@ export default function WhyChooseUs() {
             </a>
           </motion.div>
         </div>
-      </section>
+      </section> */}
 
       {/* Contact Section */}
-      <section className="py-24 bg-white px-4">
+      <section className="pb-24 pt-12 bg-white px-4">
         <div className="max-w-6xl mx-auto">
           <SectionHeader title="Get In Touch" />
           <motion.div
